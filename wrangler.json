@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "salesmartly-reply-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c133b96a-20eb-4411-bc45-00923946588b",
+			"database_name": "d1-salesmartly-reply-template-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
